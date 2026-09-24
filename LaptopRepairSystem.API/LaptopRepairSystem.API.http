@@ -1,0 +1,6 @@
+@LaptopRepairSystem.API_HostAddress = http://localhost:5197
+
+GET {{LaptopRepairSystem.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
